@@ -63,6 +63,7 @@ def create_benchmark_html_table(
                     <th>Run</th>
                     <th>Prompt ID</th>
                     <th>Prompt (truncated)</th>
+                    <th>Responce (truncated)</th>
                     <th class="number">Latency (s)</th>
                     <th class="number">Tokens Used</th>
                     <th class="number">Response Length</th>
@@ -78,6 +79,7 @@ def create_benchmark_html_table(
                     <td>{result['run_id']}</td>
                     <td>{result['prompt_id']}</td>
                     <td>{result['prompt']}</td>
+                    <td>{result['response']}</td>
                     <td class="number">{result['latency_seconds']}</td>
                     <td class="number">{result['tokens_used']}</td>
                     <td class="number">{result['response_length']}</td>

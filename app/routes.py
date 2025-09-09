@@ -94,6 +94,8 @@ async def benchmark_model(
                     "run_id": run_id + 1,
                     "prompt_id": prompt_id + 1,
                     "prompt": prompt[:100] + ("..." if len(prompt) > 100 else ""),
+                    "response": generated_text[:100]
+                    + ("..." if len(generated_text) > 100 else ""),
                     "model": model,
                     "latency_seconds": round(latency, 3),
                     "tokens_used": tokens_used,
