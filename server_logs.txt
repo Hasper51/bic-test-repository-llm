@@ -1,0 +1,1074 @@
+2025-09-08 22:44:26 - INFO - Запуск бенчмарка для модели deepseek/deepseek-chat-v3.1:free, runs=1, visualize=False
+2025-09-08 22:44:26 - INFO - Загружено 2 промптов для бенчмарка
+2025-09-08 22:44:26 - INFO - Запуск 1/1
+2025-09-08 22:44:26 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 22:44:39 - INFO - Успешный запрос за 13.18s
+2025-09-08 22:44:39 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 22:44:55 - INFO - Успешный запрос за 15.45s
+2025-09-08 22:44:55 - INFO - CSV файл успешно сохранен: benchmark_results.csv
+2025-09-08 22:44:55 - INFO - Бенчмарк завершен. Результаты сохранены в benchmark_results.csv
+2025-09-08 23:12:49 - INFO - Запрос генерации: модель=deepseek/deepseek-chat-v3.1:free, prompt=34 символов, max_tokens=256, stream=False
+2025-09-08 23:12:49 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 23:13:04 - INFO - Успешный запрос за 15.30s
+2025-09-08 23:13:04 - INFO - Успешно сгенерирован ответ: 862 символов, 269 токенов, 15.30s
+2025-09-08 23:13:06 - INFO - Запрос генерации: модель=deepseek/deepseek-chat-v3.1:free, prompt=55 символов, max_tokens=256, stream=True
+2025-09-08 23:13:06 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 23:13:07 - INFO - Успешный запрос за 1.50s
+2025-09-08 23:13:07 - INFO - Запуск SSE стриминга для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 23:13:23 - INFO - Запрос генерации: модель=z-ai/glm-4.5-air:free, prompt=47 символов, max_tokens=256, stream=False
+2025-09-08 23:13:23 - INFO - Попытка 1/4 для модели z-ai/glm-4.5-air:free
+2025-09-08 23:13:33 - INFO - Успешный запрос за 9.42s
+2025-09-08 23:13:33 - INFO - Успешно сгенерирован ответ: 0 символов, 269 токенов, 9.42s
+2025-09-08 23:13:35 - INFO - Запрос генерации: модель=z-ai/glm-4.5-air:free, prompt=46 символов, max_tokens=256, stream=True
+2025-09-08 23:13:35 - INFO - Попытка 1/4 для модели z-ai/glm-4.5-air:free
+2025-09-08 23:13:37 - INFO - Успешный запрос за 2.35s
+2025-09-08 23:13:37 - INFO - Запуск SSE стриминга для модели z-ai/glm-4.5-air:free
+2025-09-08 23:13:47 - INFO - Запрос генерации: модель=moonshotai/kimi-k2:free, prompt=58 символов, max_tokens=512, stream=False
+2025-09-08 23:13:47 - INFO - Попытка 1/4 для модели moonshotai/kimi-k2:free
+2025-09-08 23:14:04 - INFO - Успешный запрос за 17.29s
+2025-09-08 23:14:04 - INFO - Успешно сгенерирован ответ: 1374 символов, 558 токенов, 17.29s
+2025-09-08 23:14:06 - INFO - Запуск бенчмарка для модели deepseek/deepseek-chat-v3.1:free, runs=2, visualize=False
+2025-09-08 23:14:06 - INFO - Загружено 5 промптов для бенчмарка
+2025-09-08 23:14:06 - INFO - Запуск 1/2
+2025-09-08 23:14:06 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 23:14:48 - INFO - Успешный запрос за 41.40s
+2025-09-08 23:14:48 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 23:15:21 - INFO - Успешный запрос за 33.56s
+2025-09-08 23:15:21 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 23:15:53 - INFO - Успешный запрос за 32.09s
+2025-09-08 23:15:53 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 23:16:18 - INFO - Успешный запрос за 24.41s
+2025-09-08 23:16:18 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 23:16:43 - INFO - Успешный запрос за 25.02s
+2025-09-08 23:16:43 - INFO - Выполнено 5/10 запросов
+2025-09-08 23:16:43 - INFO - Запуск 2/2
+2025-09-08 23:16:43 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 23:17:12 - INFO - Успешный запрос за 29.06s
+2025-09-08 23:17:12 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 23:17:38 - INFO - Успешный запрос за 25.84s
+2025-09-08 23:17:38 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 23:18:16 - INFO - Успешный запрос за 38.71s
+2025-09-08 23:18:16 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 23:18:45 - INFO - Успешный запрос за 28.44s
+2025-09-08 23:18:45 - INFO - Попытка 1/4 для модели deepseek/deepseek-chat-v3.1:free
+2025-09-08 23:19:13 - INFO - Успешный запрос за 28.60s
+2025-09-08 23:19:14 - INFO - Выполнено 10/10 запросов
+2025-09-08 23:19:14 - INFO - CSV файл успешно сохранен: benchmark_results.csv
+2025-09-08 23:19:14 - INFO - Бенчмарк завершен. Результаты сохранены в benchmark_results.csv
+2025-09-09 12:25:38 - INFO - Attempt 1/4 for model deepseek/deepseek-chat-v3.1:free
+2025-09-09 12:26:52 - INFO - Attempt 1/4 for model deepseek/deepseek-chat-v3.1:free
+2025-09-09 12:27:06 - INFO - Attempt 1/4 for model deepseek/deepseek-chat-v3.1:free
+2025-09-09 12:27:22 - INFO - CSV saved: benchmark_results.csv
+2025-09-09 12:36:08 - INFO - Attempt 1/4 for model deepseek/deepseek-chat-v3.1:free
+2025-09-09 13:35:17 - INFO - get_models called
+2025-09-09 13:36:10 - INFO - generate_text called: model=deepseek/deepseek-chat-v3.1:free stream=False prompt_len=33
+2025-09-09 13:36:10 - INFO - Calling OpenRouter: model=deepseek/deepseek-chat-v3.1:free stream=False prompt_len=33 max_tokens=100
+2025-09-09 13:36:10 - INFO - Attempt 1/4 for model deepseek/deepseek-chat-v3.1:free
+2025-09-09 13:36:16 - INFO - OpenRouter request succeeded: model=deepseek/deepseek-chat-v3.1:free latency=5.445s
+2025-09-09 13:36:16 - INFO - Generation complete: model=deepseek/deepseek-chat-v3.1:free tokens=114 latency=5.445
+2025-09-09 14:47:49 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out.
+2025-09-09 14:52:14 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out.
+2025-09-09 14:54:47 - WARNING - Timeout, retry
+2025-09-09 14:58:00 - ERROR - Error during benchmark request: 'choices'
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 90, in benchmark_model
+    generated_text = data["choices"][0]["message"]["content"]
+                     ~~~~^^^^^^^^^^^
+KeyError: 'choices'
+2025-09-09 15:55:57 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 15:55:59 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 15:56:02 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 15:56:11 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 15:56:13 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 15:56:17 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 15:56:26 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 15:56:28 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 15:56:32 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 16:06:06 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 16:06:08 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 16:06:11 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 16:06:19 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 16:06:21 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 16:06:24 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 16:07:10 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 16:07:12 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 16:07:15 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 16:07:24 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 16:07:26 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 16:07:29 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 16:11:11 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 16:11:13 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 16:12:15 - WARNING - Timeout, retry
+2025-09-09 16:13:43 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 16:13:45 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 16:13:48 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 16:47:34 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out.
+2025-09-09 17:58:24 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 17:58:26 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 17:58:29 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 17:58:38 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 17:58:40 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 17:58:43 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 17:58:51 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 17:58:53 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 17:58:56 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 17:59:01 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 17:59:02 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 17:59:04 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 17:59:08 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 17:59:13 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 17:59:14 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 17:59:16 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 17:59:19 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 17:59:24 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 17:59:28 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 17:59:30 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 17:59:34 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 17:59:39 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 17:59:41 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 17:59:43 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 17:59:46 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 17:59:51 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 17:59:52 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 17:59:55 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 17:59:58 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:00:03 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:00:05 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:00:07 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:00:10 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:00:15 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:00:17 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:00:19 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:00:22 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:00:28 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:00:29 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:00:31 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:00:35 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:00:40 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:00:43 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:00:45 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:00:48 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:00:54 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:00:54 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:00:56 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:00:59 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:01:04 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:01:05 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:01:07 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:01:10 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:01:15 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:01:19 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:01:21 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:01:24 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:01:29 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:01:30 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:01:32 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:01:35 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:01:41 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:01:42 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:01:44 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:01:48 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:01:53 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:01:54 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:01:56 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:01:59 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:02:04 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:02:05 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:02:08 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:02:11 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:02:16 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:02:18 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:02:20 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:02:23 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:02:28 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:02:29 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:02:31 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:02:34 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:02:40 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:02:41 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:02:43 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:02:46 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:02:51 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:02:53 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:02:55 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:02:59 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:03:05 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:03:09 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:03:11 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:03:15 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:03:21 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:03:23 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:03:25 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:03:29 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:03:34 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:03:36 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:03:38 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:03:42 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:03:48 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:03:49 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:03:52 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:03:55 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:04:01 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:04:02 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:04:05 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:04:10 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:04:33 - ERROR - Network error after retries
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 18:04:34 - ERROR - Error during benchmark request: 503: Network error after retries
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 89, in make_openrouter_request_with_retry
+    raise HTTPException(status_code=503, detail="Network error after retries")
+fastapi.exceptions.HTTPException: 503: Network error after retries
+2025-09-09 18:04:36 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:04:38 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:04:47 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:04:57 - ERROR - Error during benchmark request: 429: Rate limit exceeded after 4 attempts.
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 60, in make_openrouter_request_with_retry
+    raise HTTPException(
+fastapi.exceptions.HTTPException: 429: Rate limit exceeded after 4 attempts.
+2025-09-09 18:19:30 - WARNING - Rate limit (429). Retry after 1s
+2025-09-09 18:19:32 - WARNING - Rate limit (429). Retry after 2s
+2025-09-09 18:19:35 - WARNING - Rate limit (429). Retry after 4s
+2025-09-09 18:31:10 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out.
+2025-09-09 18:47:34 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out.
+2025-09-09 18:49:58 - WARNING - Timeout, retry
+2025-09-09 20:04:18 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:04:39 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:05:00 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:05:24 - ERROR - Network error after retries
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:05:24 - ERROR - Error during benchmark request: 503: Network error after retries
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 89, in make_openrouter_request_with_retry
+    raise HTTPException(status_code=503, detail="Network error after retries")
+fastapi.exceptions.HTTPException: 503: Network error after retries
+2025-09-09 20:05:43 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:06:04 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:06:25 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:06:49 - ERROR - Network error after retries
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:06:49 - ERROR - Error during benchmark request: 503: Network error after retries
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 89, in make_openrouter_request_with_retry
+    raise HTTPException(status_code=503, detail="Network error after retries")
+fastapi.exceptions.HTTPException: 503: Network error after retries
+2025-09-09 20:07:08 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:07:28 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:07:50 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:08:13 - ERROR - Network error after retries
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:08:13 - ERROR - Error during benchmark request: 503: Network error after retries
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 89, in make_openrouter_request_with_retry
+    raise HTTPException(status_code=503, detail="Network error after retries")
+fastapi.exceptions.HTTPException: 503: Network error after retries
+2025-09-09 20:08:33 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:08:53 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:09:15 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:09:39 - ERROR - Network error after retries
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:09:39 - ERROR - Error during benchmark request: 503: Network error after retries
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\routes.py", line 86, in benchmark_model
+    response, latency = await make_openrouter_request_with_retry(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 89, in make_openrouter_request_with_retry
+    raise HTTPException(status_code=503, detail="Network error after retries")
+fastapi.exceptions.HTTPException: 503: Network error after retries
+2025-09-09 20:09:58 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:10:19 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:10:45 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:15:07 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:15:32 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:15:53 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:16:17 - ERROR - Network error after retries
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:18:10 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:18:30 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:18:52 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:19:15 - ERROR - Network error after retries
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:20:04 - WARNING - Network error, retry: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2025-09-09 20:20:25 - WARNING - Network error, retry: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2025-09-09 20:20:46 - WARNING - Network error, retry: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2025-09-09 20:21:31 - ERROR - Network error after retries
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connection.py", line 790, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connection.py", line 969, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\ssl_.py", line 480, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\ssl_.py", line 524, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\ainur\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 1319, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connection.py", line 790, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connection.py", line 969, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\ssl_.py", line 480, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\ssl_.py", line 524, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\ainur\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 1319, in do_handshake
+    self._sslobj.do_handshake()
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 659, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2025-09-09 20:23:21 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:23:42 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:24:03 - WARNING - Network error, retry: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-09-09 20:24:26 - ERROR - Network error after retries
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Programming\Тестовое задание FastAPI и LLM Benchmark\app\openrouter.py", line 40, in make_openrouter_request_with_retry
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ainur\AppData\Local\pypoetry\Cache\virtualenvs\testtaskfastapi-and-llmbenchmark-nGSw9SAY-py3.12\Lib\site-packages\requests\adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))

@@ -1,0 +1,4 @@
+model,generate_avg_latency,generate_std_dev,benchmark_avg_latency,benchmark_std_dev,generate_tests,benchmark_tests
+deepseek/deepseek-chat-v3.1:free,17.24,1.213,92.135,84.774,2,2
+z-ai/glm-4.5-air:free,24.453,7.451,127.054,45.774,2,2
+moonshotai/kimi-k2:free,5.811,0,21.128,0,1,1

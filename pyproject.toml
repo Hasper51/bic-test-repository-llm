@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "testtaskfastapi-and-llmbenchmark"
+version = "0.1.0"
+description = ""
+authors = ["Hasper15 <ainur.vahitov2002@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = {extras = ["standard"], version = "^0.116.1"}
+requests = "^2.32.5"
+python-dotenv = "^1.1.1"
+pydantic-settings = "^2.10.1"
+pydantic = "^2.11.7"
+python-multipart = "^0.0.20"
+pathlib2 = "^2.3.7.post1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

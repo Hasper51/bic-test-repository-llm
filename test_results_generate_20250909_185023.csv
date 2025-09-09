@@ -1,0 +1,6 @@
+test_name,model,latency,success,tokens_used,chunks_received
+generate_normal_deepseek,deepseek/deepseek-chat-v3.1:free,18.097818613052368,True,273,
+generate_stream_deepseek,deepseek/deepseek-chat-v3.1:free,16.382482290267944,True,,124
+generate_normal_glm,z-ai/glm-4.5-air:free,29.72179126739502,True,271,
+generate_stream_glm,z-ai/glm-4.5-air:free,19.18506622314453,True,,1
+generate_normal_kimi_512,moonshotai/kimi-k2:free,5.810910701751709,True,110,

@@ -1,0 +1,6 @@
+test_name,model,latency,success,runs,total_prompts,html_generated
+benchmark_deepseek_2runs,deepseek/deepseek-chat-v3.1:free,32.19062638282776,True,2,3,
+benchmark_glm_3runs,z-ai/glm-4.5-air:free,94.68702363967896,True,3,3,
+benchmark_kimi_html,moonshotai/kimi-k2:free,21.128215551376343,True,2,,True
+benchmark_deepseek_4runs,deepseek/deepseek-chat-v3.1:free,152.07925486564636,True,4,3,
+benchmark_glm_3runs_html,z-ai/glm-4.5-air:free,159.42143082618713,True,3,,True
